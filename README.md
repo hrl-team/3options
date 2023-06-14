@@ -31,7 +31,7 @@ The columns are ordered as follows:
   * -1: left
   * 0: middle
   * 1: right
-* COLUMN 3: choice accuracy
+* COLUMN 9: choice accuracy
   * 0: incorrect
   * 1: correct
 * COLUMN 10: outcome chosen option
