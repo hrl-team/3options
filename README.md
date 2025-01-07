@@ -6,10 +6,10 @@ Sophie Bavard, Stefano Palminteri
 [https://elifesciences.org/articles/83891](https://elifesciences.org/articles/83891)
 
 ## Data availability
-All raw data matrices are provided in .mat and .csv formats. 
+All raw data matrices are provided in .mat and .csv formats. Files have been reorganized in different folders: please change the path accordingly if needed. 
 
 >[!NOTE]
->Variable and column names are described below, please contact me if any question arises.        
+>Variables and column names are described below, please contact me if any question arises.        
 >sophie[dot]bavard[at]gmail[dot]com
 
 ## Behavioral analyses   
